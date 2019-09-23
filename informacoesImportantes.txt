@@ -1,0 +1,13 @@
+/* Informações importantes */
+
+{-- São navegações e gestos de mechidas de tela e transições de telas --} 
+
+   - yarn add react-navigation react-native-gesture-handler
+
+{-- Para deixar a depedencia nativa --}
+
+   - react-native link react-native-gesture-handler
+
+{-- Para tirar cache do celular --}
+
+   - react-native start --reset-cache
